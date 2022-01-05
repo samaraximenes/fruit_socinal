@@ -18,7 +18,7 @@ class FruitsController < ApplicationController
 
   # GET /fruits/1
   def show
-    render json: @fruit
+    render json: @fruit, :except => [:id]
   end
 
   private

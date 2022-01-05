@@ -10,7 +10,7 @@ class ServiceFruitsController < ApplicationController
         build_fruit
         @fruit = Fruit.new(@fruit)
         if @fruit.save
-            render json: @fruit, status: :created, location: @fruit
+            render json: @fruit,:except => [:id], status: :created, location: @fruit
         else
             render json: @fruit.errors, status: :unprocessable_entity
         end
