@@ -1,118 +1,130 @@
 {
   "RSpec": {
     "coverage": {
-      "/home/samaragoncalves/Fruityvice/FruitSocinal/app/controllers/fruits_controller.rb": {
-        "lines": [
-          1,
-          1,
-          null,
-          1,
-          0,
-          0,
-          null,
-          null,
-          null,
-          1,
-          2,
-          1,
-          null,
-          1,
-          null,
-          2,
-          null,
-          null,
-          null,
-          1,
-          1,
-          null,
-          null,
-          1,
-          null,
-          1,
-          1,
-          null,
-          null,
-          null,
-          1,
-          0,
-          null,
-          null
-        ]
-      },
       "/home/samaragoncalves/Fruityvice/FruitSocinal/app/controllers/application_controller.rb": {
         "lines": [
-          1,
-          null
-        ]
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/samaragoncalves/Fruityvice/FruitSocinal/app/controllers/fruits_controller.rb": {
+        "lines": [
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          null,
+          0,
+          null,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
       },
       "/home/samaragoncalves/Fruityvice/FruitSocinal/app/controllers/service_fruits_controller.rb": {
         "lines": [
-          1,
+          0,
           null,
-          1,
+          0,
+          0,
           0,
           0,
           null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           null,
-          1,
-          2,
-          2,
-          2,
-          2,
-          1,
+          0,
           null,
-          1,
-          null,
-          null,
-          null,
-          1,
-          null,
-          1,
-          2,
-          null,
-          null,
-          null
-        ]
-      },
-      "/home/samaragoncalves/Fruityvice/FruitSocinal/app/models/fruit.rb": {
-        "lines": [
-          1,
-          null,
-          1,
-          1,
-          1,
-          1,
-          null,
-          null
-        ]
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
       },
       "/home/samaragoncalves/Fruityvice/FruitSocinal/app/models/application_record.rb": {
         "lines": [
-          1,
-          1,
-          null
-        ]
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/samaragoncalves/Fruityvice/FruitSocinal/app/models/fruit.rb": {
+        "lines": [
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0
+        ],
+        "branches": {
+        }
       },
       "/home/samaragoncalves/Fruityvice/FruitSocinal/app/services/fruityvice_service.rb": {
         "lines": [
-          1,
-          1,
+          0,
+          0,
           null,
-          1,
+          0,
           null,
-          1,
+          0,
           null,
-          3,
-          null,
-          null,
-          null,
-          null,
-          3,
-          null,
-          null
-        ]
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
       }
     },
-    "timestamp": 1641346428
+    "timestamp": 1641408615
   }
 }
