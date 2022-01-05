@@ -13,7 +13,7 @@ class FruitsController < ApplicationController
     else
       @fruits = Fruit.all
     end
-    render json: @fruits
+    render json: @fruits,:except => [:id]
   end
 
   # GET /fruits/1
